@@ -1,4 +1,4 @@
-![logo](https://github.com/aasthadahuja7/aasthadahuja07/blob/main/banner.png)
+![logo](https://github.com/aasthadahuja7/aasthadahuja7/blob/main/banner.png)
 <h1 align = "left"> Hi 👋, I'm Aastha</h1>
 <h3 align = "left">  A Tech Explorer 🚀</h3>
 
