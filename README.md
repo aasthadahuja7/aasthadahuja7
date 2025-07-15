@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-Second-year Computer Science Engineering student with a deep passion for technology and innovation! 🚀 My journey in tech involves constant learning and skill refinement across new domains, currently focused on Data Structures and Algorithms in Java and building real-world projects to sharpen problem-solving skills. Beyond the code, I'm also drawn to the world of analyzing information, the dynamic energy of event management, and the rewarding experience of connecting with people and leveraging my communication skills. Like the complementary forces of yin and yang, I find balance in both the logical rigor of technology and the engaging dynamics of human interaction, always up for a challenge!<br>
+Third-year Computer Science Engineering student with a deep passion for technology and innovation! 🚀 My journey in tech involves constant learning and skill refinement across new domains, currently focused on Data Structures and Algorithms in Java and building real-world projects to sharpen problem-solving skills. Beyond the code, I'm also drawn to the world of analyzing information, the dynamic energy of event management, and the rewarding experience of connecting with people and leveraging my communication skills. Like the complementary forces of yin and yang, I find balance in both the logical rigor of technology and the engaging dynamics of human interaction, always up for a challenge!<br>
 
 
 ## 🌐 Socials:
